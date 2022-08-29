@@ -1,7 +1,10 @@
 # Projects Directory
 #### Collection of all projects 
 
-[F](#f) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s)
+[[0-9]](#numbers) - [F](#f) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s)
+
+## 0-9 <a id="numbers"></a>
+- <a href="https://github.com/Parth-1602/3-column-preview-card-component-frontendmentor">3-Column Preview Card Component<a/> - Frontend Mentor Challenge
 
 ## F <a id="f"></a>
 - <a href="https://github.com/Parth-1602/frontend-mentor-challenges-solutions">Frontend Mentor Challenges Solutions<a/> - All my Frontend Mentor Challenges solutions made with React, Next.JS and Material-UI
