@@ -1,7 +1,7 @@
 # Projects Directory
 #### Collection of all projects 
 
-[F](#f) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q)
+[F](#f) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s)
 
 ## F <a id="f"></a>
 - <a href="https://github.com/Parth-1602/frontend-mentor-challenges-solutions">Frontend Mentor Challenges Solutions<a/> - All my Frontend Mentor Challenges solutions made with React, Next.JS and Material-UI
@@ -20,3 +20,6 @@
 
 ## Q <a id="q"></a>
 - <a href="https://github.com/Parth-1602/qr-code-component-frontendmentor/">QR Code Component<a/> - Frontend Mentor Challenge
+
+## S <a id="s"></a>
+- <a href="https://github.com/Parth-1602/stats-preview-card-component-frontendmentor/">Stats Preview Card Component<a/> - Frontend Mentor Challenge
