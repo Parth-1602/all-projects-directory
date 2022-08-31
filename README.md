@@ -8,6 +8,7 @@
 
 ## F <a id="f"></a>
 - <a href="https://github.com/Parth-1602/frontend-mentor-challenges-solutions">Frontend Mentor Challenges Solutions<a/> - All my Frontend Mentor Challenges solutions made with React, Next.JS and Material-UI
+- <a href="https://github.com/Parth-1602/faq-accordion-card-frontendmentor">FAQ Accordion Card<a/> - Frontend Mentor Challenge
 
 ## I <a id="i"></a>
 - <a href="https://github.com/Parth-1602/interactive-rating-component-frontendmentor">Interactive Rating Component<a/> - Frontend Mentor Challenge
