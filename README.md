@@ -5,6 +5,7 @@
 
 ## 0-9 <a id="numbers"></a>
 - <a href="https://github.com/Parth-1602/3-column-preview-card-component-frontendmentor">3-Column Preview Card Component<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/4-card-feature-section-frontendmentor">4-Card Feature Section<a/> - Frontend Mentor Challenge
 
 ## A <a id="a"></a>
 - <a href="https://github.com/Parth-1602/article-preview-component-frontendmentor">Article Preview Component<a/> - Frontend Mentor Challenge
