@@ -19,6 +19,7 @@
 
 ## I <a id="i"></a>
 - <a href="https://github.com/Parth-1602/interactive-rating-component-frontendmentor">Interactive Rating Component<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/intro-component-with-sign-up-form-frontendmentor">Intro Component with Sign-up Form<a/> - Frontend Mentor Challenge
 
 ## N <a id="n"></a>
 - <a href="https://github.com/Parth-1602/nft-preview-card-component-frontendmentor">NFT Preview Card Component<a/> - Frontend Mentor Challenge
