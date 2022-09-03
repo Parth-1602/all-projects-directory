@@ -37,3 +37,4 @@
 ## S <a id="s"></a>
 - <a href="https://github.com/Parth-1602/stats-preview-card-component-frontendmentor/">Stats Preview Card Component<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/social-proof-section-frontendmentor/">Social Proof Section<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/single-price-grid-component-frontendmentor/">Single Price Grid Component<a/> - Frontend Mentor Challenge
