@@ -1,7 +1,7 @@
 # Projects Directory
 #### Collection of all projects 
 
-[[0-9]](#numbers) - [A](#a) - [B](#b) - [F](#f) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s)
+[[0-9]](#numbers) - [A](#a) - [B](#b) - [F](#f) - [H](#h) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s)
 
 ## 0-9 <a id="numbers"></a>
 - <a href="https://github.com/Parth-1602/3-column-preview-card-component-frontendmentor">3-Column Preview Card Component<a/> - Frontend Mentor Challenge
@@ -16,6 +16,9 @@
 ## F <a id="f"></a>
 - <a href="https://github.com/Parth-1602/frontend-mentor-challenges-solutions">Frontend Mentor Challenges Solutions<a/> - All my Frontend Mentor Challenges solutions made with React, Next.JS and Material-UI
 - <a href="https://github.com/Parth-1602/faq-accordion-card-frontendmentor">FAQ Accordion Card<a/> - Frontend Mentor Challenge
+
+## H <a id="h"></a>
+- <a href="https://github.com/Parth-1602/huddle-landing-page-v1-frontendmentor">Huddle Landing Page with Single Introductory Section<a/> - Frontend Mentor Challenge
 
 ## I <a id="i"></a>
 - <a href="https://github.com/Parth-1602/interactive-rating-component-frontendmentor">Interactive Rating Component<a/> - Frontend Mentor Challenge
