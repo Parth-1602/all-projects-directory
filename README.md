@@ -30,6 +30,7 @@
 ## P <a id="p"></a>
 - <a href="https://github.com/Parth-1602/product-preview-card-component-frontendmentor">Product Preview Card Component<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/profile-card-component-frontendmentor">Profile Card Component<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/ping-single-column-coming-soon-page-frontendmentor">Ping Single Column Coming Soon Page<a/> - Frontend Mentor Challenge
 
 ## Q <a id="q"></a>
 - <a href="https://github.com/Parth-1602/qr-code-component-frontendmentor/">QR Code Component<a/> - Frontend Mentor Challenge
