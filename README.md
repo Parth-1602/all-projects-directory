@@ -1,7 +1,7 @@
 # Projects Directory
 #### Collection of all projects 
 
-[[0-9]](#numbers) - [A](#a) - [B](#b) - [E](#e) - [F](#f) - [H](#h) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s)
+[[0-9]](#numbers) - [A](#a) - [B](#b) - [E](#e) - [F](#f) - [H](#h) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s) - [T](#t)
 
 ## 0-9 <a id="numbers"></a>
 - <a href="https://github.com/Parth-1602/3-column-preview-card-component-frontendmentor">3-Column Preview Card Component<a/> - Frontend Mentor Challenge
@@ -47,3 +47,8 @@
 - <a href="https://github.com/Parth-1602/social-proof-section-frontendmentor/">Social Proof Section<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/single-price-grid-component-frontendmentor/">Single Price Grid Component<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/snap-landing-page-frontendmentor/">Snap Landing Page<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/sunnyside-agency-landing-page-frontendmentor/">Sunnyside Agency Landing Page<a/> - Frontend Mentor Challenge
+
+## T <a id="t"></a>
+- <a href="https://github.com/Parth-1602/time-tracking-dashboard-frontendmentor/">Time Tracking Dashboard<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/tip-calculator-app-frontendmentor/">Tip Calculator App<a/> - Frontend Mentor Challenge
