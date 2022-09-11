@@ -1,7 +1,7 @@
 # Projects Directory
 #### Collection of all projects 
 
-[[0-9]](#numbers) - [A](#a) - [B](#b) - [E](#e) - [F](#f) - [H](#h) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s) - [T](#t)
+[[0-9]](#numbers) - [A](#a) - [B](#b) - [C](#c) - [E](#e) - [F](#f) - [H](#h) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s) - [T](#t)
 
 ## 0-9 <a id="numbers"></a>
 - <a href="https://github.com/Parth-1602/3-column-preview-card-component-frontendmentor">3-Column Preview Card Component<a/> - Frontend Mentor Challenge
@@ -13,6 +13,10 @@
 
 ## B <a id="b"></a>
 - <a href="https://github.com/Parth-1602/base-apparel-coming-soon-page-frontendmentor">Base Apparel Coming Soon Page<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/blogr-landing-page-frontendmentor">Blogr Landing Page<a/> - Frontend Mentor Challenge
+
+## C <a id="c"></a>
+- <a href="https://github.com/Parth-1602/crowdfunding-product-page-frontendmentor">Crowdfunding Product Page<a/> - Frontend Mentor Challenge
 
 ## E <a id="e"></a>
 - <a href="https://github.com/Parth-1602/expenses-chart-component-frontendmentor">Expenses Chart Component<a/> - Frontend Mentor Challenge
@@ -27,6 +31,7 @@
 ## I <a id="i"></a>
 - <a href="https://github.com/Parth-1602/interactive-rating-component-frontendmentor">Interactive Rating Component<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/intro-component-with-sign-up-form-frontendmentor">Intro Component with Sign-up Form<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/interactive-pricing-frontendmentor">Interactive Pricing Component<a/> - Frontend Mentor Challenge
 
 ## N <a id="n"></a>
 - <a href="https://github.com/Parth-1602/nft-preview-card-component-frontendmentor">NFT Preview Card Component<a/> - Frontend Mentor Challenge
