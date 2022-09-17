@@ -1,7 +1,7 @@
 # Projects Directory
 #### Collection of all projects 
 
-[[0-9]](#numbers) - [A](#a) - [B](#b) - [C](#c) - [E](#e) - [F](#f) - [H](#h) - [I](#i) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s) - [T](#t)
+[[0-9]](#numbers) - [A](#a) - [B](#b) - [C](#c) - [E](#e) - [F](#f) - [H](#h) - [I](#i) - [L](#l) - [N](#n) - [O](#o) - [P](#p) - [Q](#q) - [S](#s) - [T](#t)
 
 ## 0-9 <a id="numbers"></a>
 - <a href="https://github.com/Parth-1602/3-column-preview-card-component-frontendmentor">3-Column Preview Card Component<a/> - Frontend Mentor Challenge
@@ -33,6 +33,9 @@
 - <a href="https://github.com/Parth-1602/intro-component-with-sign-up-form-frontendmentor">Intro Component with Sign-up Form<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/interactive-pricing-frontendmentor">Interactive Pricing Component<a/> - Frontend Mentor Challenge
 
+## L <a id="l"></a>
+- <a href="https://github.com/Parth-1602/loopstudios-landing-page-frontendmentor">Loopstudios Landing Page<a/> - Frontend Mentor Challenge
+
 ## N <a id="n"></a>
 - <a href="https://github.com/Parth-1602/nft-preview-card-component-frontendmentor">NFT Preview Card Component<a/> - Frontend Mentor Challenge
 
@@ -57,3 +60,4 @@
 ## T <a id="t"></a>
 - <a href="https://github.com/Parth-1602/time-tracking-dashboard-frontendmentor/">Time Tracking Dashboard<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/tip-calculator-app-frontendmentor/">Tip Calculator App<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/testimonials-grid-section-frontendmentor/">Testimonials Grid Section<a/> - Frontend Mentor Challenge
