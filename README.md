@@ -17,6 +17,7 @@
 
 ## C <a id="c"></a>
 - <a href="https://github.com/Parth-1602/crowdfunding-product-page-frontendmentor">Crowdfunding Product Page<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/coding-bootcamp-testimonials-slider-frontendmentor">Coding Bootcamp Testimonials Slider<a/> - Frontend Mentor Challenge
 
 ## E <a id="e"></a>
 - <a href="https://github.com/Parth-1602/expenses-chart-component-frontendmentor">Expenses Chart Component<a/> - Frontend Mentor Challenge
@@ -24,6 +25,7 @@
 ## F <a id="f"></a>
 - <a href="https://github.com/Parth-1602/frontend-mentor-challenges-solutions">Frontend Mentor Challenges Solutions<a/> - All my Frontend Mentor Challenges solutions made with React, Next.JS and Material-UI
 - <a href="https://github.com/Parth-1602/faq-accordion-card-frontendmentor">FAQ Accordion Card<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/flyo-data-storage-component-frontendmentor">Flyo Data Storage Component<a/> - Frontend Mentor Challenge
 
 ## H <a id="h"></a>
 - <a href="https://github.com/Parth-1602/huddle-landing-page-v1-frontendmentor">Huddle Landing Page with Single Introductory Section<a/> - Frontend Mentor Challenge
@@ -32,6 +34,7 @@
 - <a href="https://github.com/Parth-1602/interactive-rating-component-frontendmentor">Interactive Rating Component<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/intro-component-with-sign-up-form-frontendmentor">Intro Component with Sign-up Form<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/interactive-pricing-frontendmentor">Interactive Pricing Component<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/insure-landing-page-frontendmentor">Insure Landing Page<a/> - Frontend Mentor Challenge
 
 ## L <a id="l"></a>
 - <a href="https://github.com/Parth-1602/loopstudios-landing-page-frontendmentor">Loopstudios Landing Page<a/> - Frontend Mentor Challenge
@@ -56,6 +59,7 @@
 - <a href="https://github.com/Parth-1602/single-price-grid-component-frontendmentor/">Single Price Grid Component<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/snap-landing-page-frontendmentor/">Snap Landing Page<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/sunnyside-agency-landing-page-frontendmentor/">Sunnyside Agency Landing Page<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/social-media-dashboard-with-theme-switcher-frontendmentor">Social Media Dashboard with Theme Switcher<a/> - Frontend Mentor Challenge
 
 ## T <a id="t"></a>
 - <a href="https://github.com/Parth-1602/time-tracking-dashboard-frontendmentor/">Time Tracking Dashboard<a/> - Frontend Mentor Challenge
