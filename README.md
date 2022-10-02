@@ -41,6 +41,7 @@
 
 ## N <a id="n"></a>
 - <a href="https://github.com/Parth-1602/nft-preview-card-component-frontendmentor">NFT Preview Card Component<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/notifications-page-frontendmentor">Notifications Page<a/> - Frontend Mentor Challenge
 
 ## O <a id="o"></a>
 - <a href="https://github.com/Parth-1602/order-summary-component-frontendmentor">Order Summary Component<a/> - Frontend Mentor Challenge
