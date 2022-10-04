@@ -35,6 +35,7 @@
 - <a href="https://github.com/Parth-1602/intro-component-with-sign-up-form-frontendmentor">Intro Component with Sign-up Form<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/interactive-pricing-frontendmentor">Interactive Pricing Component<a/> - Frontend Mentor Challenge
 - <a href="https://github.com/Parth-1602/insure-landing-page-frontendmentor">Insure Landing Page<a/> - Frontend Mentor Challenge
+- <a href="https://github.com/Parth-1602/interactive-card-details-form-frontendmentor">Interactive Card Details Form<a/> - Frontend Mentor Challenge
 
 ## L <a id="l"></a>
 - <a href="https://github.com/Parth-1602/loopstudios-landing-page-frontendmentor">Loopstudios Landing Page<a/> - Frontend Mentor Challenge
