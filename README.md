@@ -1,13 +1,14 @@
 # Projects Directory
 #### Collection of all projects 
 
-[F](#f) - [J](#j) - [J](#p)
+[F](#f) - [O](#o) - [P](#p)
 
 ## F <a id="f"></a>
-- <a href="https://github.com/Parth-1602/frontend-mentor-challenges-solutions">Frontend Mentor Challenges Solutions<a/> - All my Frontend Mentor Challenges solutions made with React, Next.JS and Material-UI
+- <a href="https://github.com/Parth-1602/frontend-mentor-challenges-solutions">Frontend Mentor Challenges Solutions<a/> - All my Frontend Mentor Challenges solutions
 
-## J <a id="j"></a>
-- <a href="https://github.com/Parth-1602/jsm-openai-codex">JSM OpenAI Codex<a/> - JavaScriptMastery Project
+## O <a id="o"></a>
+- <a href="https://github.com/Parth-1602/jsm-openai-codex">OpenAI ChatGPT Codex<a/> - JavaScriptMastery Project
 
 ## P <a id="p"></a>
-- <a href="https://parth-sharma.netlify.app/">Personal Portfolio<a/> - JavaScriptMastery Project
+- <a href="https://github.com/Parth-1602/jsm-personal-portfolio">Personal Portfolio<a/> - JavaScriptMastery Project
+- <a href="https://github.com/Parth-1602/product-preview-card-component-frontendmentor">Product Preview Card Component</a> - Frontend Mentor Challenge
